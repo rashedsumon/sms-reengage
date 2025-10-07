@@ -1,0 +1,12 @@
+streamlit
+pandas
+sqlalchemy
+alembic
+twilio
+Flask
+openai
+python-dotenv
+apscheduler
+pytz
+python-dateutil
+gunicorn
